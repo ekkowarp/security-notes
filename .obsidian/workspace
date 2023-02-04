@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "e4a79440d7e7b4dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd3fa359e9915a2",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "530dc076f446b72c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd3fd0e9c97f1f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab0fbfdb79a7607",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84d3a4b02ae75649",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a1f111183e720c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233
+  },
+  "right": {
+    "id": "8445cea3555c08fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "365ca631a941b7ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35160006191b0748",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "196c796244846cdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "471cc7c6ddc378d1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182,
+    "collapsed": true
+  },
+  "active": "dcd3fa359e9915a2",
+  "lastOpenFiles": [
+    "CIA Triad.md",
+    "Bind Shell.md",
+    "Tools/Vim.md",
+    "Tools/tmux.md",
+    "Tools/socat.md",
+    "Tools/Searchsploit.md",
+    "Tools/Nmap.md",
+    "Tools/Netcat.md",
+    "OWASP Top 10.md",
+    "Linux Commands/Common Linux Commands.md"
+  ]
+}
